@@ -1,0 +1,7 @@
+*.log
+*.xlsx
+.DS_Store
+.idea/
+
+__pycache__/
+*.pyc
