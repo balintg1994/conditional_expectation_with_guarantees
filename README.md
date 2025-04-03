@@ -39,6 +39,10 @@ To execute the experiment, use the following command-line input:
 python3 linear_example.py
 ```
 
+#### Acknowledgement
+
+Speacial thanks to OpenAI's ChatGPT for helping with writing, refactoring and improving the souce code. 
+
 
 #### Citation
 
