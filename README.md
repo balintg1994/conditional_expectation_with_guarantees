@@ -42,6 +42,7 @@ python3 linear_example.py
 ### Acknowledgement
 
 Speacial thanks to 
+
     - Sebastian Becker for his guidance and tipps regading the improvement of the implementation's computational efficiency,   
     - OpenAI's ChatGPT for helping with writing, refactoring and improving the souce code. 
 
